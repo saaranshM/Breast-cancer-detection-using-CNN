@@ -1,6 +1,6 @@
 # Breast Cancer Detection (IDC) Using CNN
 
-## The dataset user
+## The dataset
 
 The datset used in traing the model is from [Kaggle](https://www.kaggle.com/)
 

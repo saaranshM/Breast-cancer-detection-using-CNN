@@ -1,4 +1,4 @@
-# Breast Cancer Detection Using (IDC) CNN
+# Breast Cancer Detection (IDC) Using CNN
 
 ## The dataset user
 

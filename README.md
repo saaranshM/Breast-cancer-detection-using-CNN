@@ -22,7 +22,7 @@ The goal is to create a deep learning model that can be used to ease the work of
 
 This requires the model to be highly accurate i.e. above 85% accuracy and have good recall in both negative and postive classes.
 
-## About Invasive Ductal Carcinoma
+## About Invasive Ductal Carcinoma(IDC)
 
 <a title="Mikael Häggström, M.D. - Author info - Reusing images [CC BY (https://creativecommons.org/licenses/by/2.5)]" href="https://commons.wikimedia.org/wiki/File:Lobules_and_ducts_of_the_breast.jpg"><img width="309" alt="Lobules and ducts of the breast" style="float:left; margin:0px 15px 15px 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lobules_and_ducts_of_the_breast.jpg/256px-Lobules_and_ducts_of_the_breast.jpg"></a>
 
